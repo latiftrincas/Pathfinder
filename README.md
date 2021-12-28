@@ -3,7 +3,7 @@ Pathfinder is the name of my line-following robot for my end of year Level 3 Eng
 
 Deliver_crate is the main code used.
 
-I have not done any documentation but i do plan to do so.   ## please forgive me :(
+I have not done any documentation but i do plan to do so.   ## please forgive me :( ## 
 This will include further code, design files and list of equipment.
 
 For further details please visit my Youtube channel:
